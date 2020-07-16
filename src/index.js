@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDome from "react-dom";
+import App from "./components/app";
 
-ReactDome.render(<h1>Hello world</h1>, document.getElementById("root"));
+ReactDome.render(<App />, document.getElementById("root"));
 
 //1. Create a new React app.
 //2. Create a App.jsx component.
