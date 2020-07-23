@@ -7,8 +7,9 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
   padding: 0 16px;
+  background-color: #eeeeee;
+  background-image: url("https://www.transparenttextures.com/patterns/food.png");
 }
 
 header {
@@ -33,7 +34,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #777;
 }
 .note {
   background: #fff;
